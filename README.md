@@ -4,4 +4,4 @@ This repository currently includes:
 - [x] This ReadMe file
 - [x] A markdown file for the first deliverable that includes data exploration and potential research questions for the second deliverable.
 
-If you would like to explore this repository, this project uses R code and was created in RStudio!
+If you would like to explore this repository, you can clone this repository and open the R Project in RStudio!
